@@ -1431,7 +1431,6 @@ lookup latin_special {
   substitute \24 by \63160;
   substitute \25 by \63161;
   substitute \26 by \63162;
-  substitute \735 by \63163;
 } latin_special;
 
 lookup jpcntwhk_special {
