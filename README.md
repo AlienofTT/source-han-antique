@@ -1,4 +1,4 @@
-# Source Han Sans
+# Source Han Antique
 
 This branch, based on 2.001, aims for fixing the issue that ellipsis cannot stay in center in Photoshop
 
